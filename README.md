@@ -107,5 +107,6 @@ Edit Channel -> Integrations -> Create Webhook
 
 เพียงเท่านี้ก็จะส่งแจ้งเตือนมาทุกวัน ช่วงเวลาประมาณ เที่ยงคืน - ตี1 จ้า
 
-![image](https://github.com/samanwanich/LedgerAppScript/assets/56758896/d5a76080-cc4f-4fcd-a96b-35252f99e83d)
+![image](https://github.com/samanwanich/LedgerAppScript/assets/56758896/e09cfb4b-25d0-4f20-b476-1f03af6a98d8)
+
 
